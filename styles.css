@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
 #H1{
-	text-align: center
+	text-align: center;
+}
+img{
+	height: 200px;
 }
